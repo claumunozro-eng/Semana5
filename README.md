@@ -1,6 +1,6 @@
 SpeedFast - Semana 5
 
-**Autor:** Claum  
+**Autor:** Claudia Muñoz  
 **Asignatura:** Desarrollo Orientado a Objetos II
 
 ## Descripción
