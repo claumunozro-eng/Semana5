@@ -3,7 +3,7 @@
 **Autor:** Claum  
 **Asignatura:** Desarrollo Orientado a Objetos II
 
-## DescripciÃ³n
+## Descripcion
 
 Este proyecto simula el despacho concurrente de pedidos de la empresa SpeedFast. Tres repartidores trabajan en paralelo retirando pedidos desde una zona de carga compartida.
 
